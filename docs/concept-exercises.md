@@ -47,7 +47,7 @@ When designing Concept Exercises, please consider the following guidelines:
 
 ## Style Guidelines
 
-When writing documentation and supporting Markdown files for Concept Exercises, please consult the [style guide][style-guide.md] (and any language-specific style guides if applicable).
+When writing documentation and supporting Markdown files for Concept Exercises, please consult the [style guide][style-guide.md] and especially the [automatic formatting section][style-guide.md-auto-formatting]. Also check any language-specific style guides, when applicable.
 
 ## Exercise Structure
 
@@ -196,3 +196,4 @@ See the C# track's [debug.md file][csharp-docs-debug.md] for an example.
 [csharp-docs-config.json]: ../languages/csharp/exercises/concept/floating-point-numbers/.meta/config.json
 [fsharp-booleans-docs-config.json]: ../languages/fsharp/exercises/concept/booleans/.meta/config.json
 [style-guide.md]: maintainers/style-guide.md
+[style-guide.md-auto-formatting]: maintainers/style-guide.md#auto-formatting
